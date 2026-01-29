@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">Computer Engineering Student | Data Science & AI Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Data Science & AI Enthusiast</h3>
 
 ---
 
@@ -42,12 +42,6 @@
 </p>
 
 ---
-
-<h3 align="left">📌 Featured Repositories</h3>
-
-- 📊 **Python for Data Science** → (repo linkini ekle)
-- 🤖 **AI / ML mini projects** → (yakında)
-- 💻 **Java & C# practice** → (yakında)
 
 ---
 ⭐ Feel free to check my repositories and follow my progress!
