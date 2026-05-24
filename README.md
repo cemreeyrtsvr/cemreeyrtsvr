@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cemre Yurtsever
+<h1 align="center">Hi 👋, I'm Cemre Yurtsever</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
@@ -25,16 +25,16 @@ Software Engineering Student | Data Science & AI Enthusiast
 ## 📈 GitHub Statistics
 
 <p align="center">
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cemreeyrtsvr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemreeyrtsvr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemreeyrtsvr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemreeyrtsvr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemreeyrtsvr&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=cemreeyrtsvr&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -118,7 +118,7 @@ Software Engineering Student | Data Science & AI Enthusiast
 ---
 
 <p align="center">
-  
+
 ⭐ Feel free to check my repositories and follow my progress!
 
 </p>
