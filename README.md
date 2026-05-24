@@ -105,9 +105,7 @@ Software Engineering Student | Data Science & AI Enthusiast
 - 🤖 Artificial Intelligence
 - 📊 Data Science
 - 🧠 Machine Learning
-- 🎮 Game Development
 - 💻 Software Engineering
-- 🔐 Cyber Security
 
 ---
 
