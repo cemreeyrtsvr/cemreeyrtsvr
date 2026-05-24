@@ -26,15 +26,15 @@ Software Engineering Student | Data Science & AI Enthusiast
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CemreYurtsever&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemreeyrtsvr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemreYurtsever&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemreeyrtsvr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CemreYurtsever&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemreeyrtsvr&theme=tokyonight&hide_border=true" />
 
 </p>
 
